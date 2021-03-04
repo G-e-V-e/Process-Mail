@@ -3,7 +3,7 @@ Do everything needed to manage, build, process and send html formatted mail mess
 
 "Everything happens for a reason", Aristotle believed. That may be a wrong assumption given the current state of philosophy and science, but at least sending mails should.
 
-So, the basis for this Powershell function is to define at least one and preferrably a lot more reasons why you would want - or need - mails to email addresses in your company or to the outside world.
+So, the basis for this Powershell function is to define at least one and preferrably a lot more reasons why you would want - or need - mail messages to be sent to email addresses in your company or to the outside world.
 
 Say you want to communicate that a given process succeeded, you could call that reason 'OK' and send it to everyone. On the other hand, a 'NotOK' process may be even more reason to send a mail, probably just to yourself as the developper. Extend that to Create, Update and Remove events and you may already have 6 different reasons:
 
