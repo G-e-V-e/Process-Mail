@@ -1,7 +1,7 @@
 # Process-Mail
 Do everything needed to manage, build, process and send html formatted mail messages based on just 1 variable and 1 PowerShell function.
 
-"Everything happens for a reason", Aristotle believed. That may be a wrong assumtion given the current state of philosophy and science, but at least sending mails should.
+"Everything happens for a reason", Aristotle believed. That may be a wrong assumption given the current state of philosophy and science, but at least sending mails should.
 
 So, the basis for this Powershell function is to define at least one and preferrably a lot more reasons why you would want - or need - mails to email addresses in your company or to the outside world.
 
