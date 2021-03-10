@@ -1,5 +1,5 @@
 # Process-Mail
-Do everything needed to manage, build, process and send html formatted mail messages based on just 1 variable and 1 PowerShell function.
+Manage, build, process and send html formatted mail messages based on just 1 variable and 1 PowerShell function.
 
 "Everything happens for a reason", Aristotle believed. That may be a wrong assumption given the current state of philosophy and science, but at least sending mails should.
 
